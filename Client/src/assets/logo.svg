@@ -1,0 +1,27 @@
+<svg width="720" height="180" viewBox="0 0 720 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">CreatorStack logo</title>
+  <desc id="desc">A black and orange CreatorStack wordmark with an abstract stacked creator mark.</desc>
+
+  <!-- Icon -->
+  <g transform="translate(18 18)">
+    <!-- Bottom stack -->
+    <path d="M28 108L72 84L116 108L72 132L28 108Z" fill="#171717"/>
+    <path d="M28 108V128L72 152L116 128V108L72 132L28 108Z" fill="#171717"/>
+
+    <!-- Orange middle stack -->
+    <path d="M28 72L72 48L116 72L72 96L28 72Z" fill="#E43D12"/>
+    <path d="M28 72V92L72 116L116 92V72L72 96L28 72Z" fill="#E43D12"/>
+
+    <!-- Cut / creative spark -->
+    <path d="M28 72L72 48L94 60L50 84L28 72Z" fill="#171717"/>
+    <path d="M50 84L94 60L116 72L72 96L50 84Z" fill="#F36A45" opacity="0.9"/>
+
+    <!-- Top accent -->
+    <path d="M44 38L72 22L100 38L72 54L44 38Z" fill="#FFB11D"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="178" y="113" font-family="DM Sans, Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">
+    <tspan fill="#171717">Creator</tspan><tspan fill="#E43D12">Stack</tspan>
+  </text>
+</svg>
